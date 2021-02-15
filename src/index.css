@@ -206,6 +206,7 @@ body {
 }
 .todoTextClass p{
   margin: 0;
+  font-size: 0.8rem;
 }
 .completedTask{
   text-decoration: line-through;
@@ -291,8 +292,8 @@ body {
     top: 75%;
     right: 20%;
   }
-  .todoTextClass{
+  .todoTextClass p{
     padding-top: 20px;
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 } 
